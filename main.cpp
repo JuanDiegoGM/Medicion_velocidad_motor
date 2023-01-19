@@ -40,5 +40,3 @@ void loop() {
 void leerEncoder(){
     pulsos++;
 }
-
-/****** Adaptado de https://controlautomaticoeducacion.com/arduino/motor-dc-encoder/ ******/
